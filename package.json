@@ -1,0 +1,27 @@
+{
+  "name": "bitclout-jwt-validate",
+  "version": "1.0.0",
+  "description": "sample code to validate a bitclout JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattetre/bitclout-jwt-validate.git"
+  },
+  "keywords": [
+    "bitclout",
+    "jwt",
+    "identity"
+  ],
+  "author": "mattetre",
+  "homepage": "https://github.com/mattetre/bitclout-jwt-validate#readme",
+  "dependencies": {
+    "bs58check": "^2.1.2",
+    "elliptic": "^6.5.4",
+    "jsonwebtoken": "^8.5.1",
+    "key-encoder": "^2.0.3",
+    "yargs": "^17.0.1"
+  }
+}
