@@ -4,7 +4,7 @@ This project is a simple javascript/node.js example to help validate & decode a 
 
 This was created based on the BitClout identity docs example of how to validate a JWT token (https://docs.bitclout.com/devs/identity-api#validation-in-go). I struggled to get validation working solely based on the docs so I thought this example might help others.
 
-Feel free to reach out [@mattetre](https://bitclout.com/u/mattetre)
+Feel free to reach out to [@mattetre](https://bitclout.com/u/mattetre) from [@bithunt](https://bitclout.com/u/bithunt)
 
 ## BitClout public key info
 
